@@ -1,0 +1,81 @@
+Hid,HostelName,District,Place_City,HostelType,ManagerName,ManagerContact,SingleSeaterPrice,DoubleSeaterPrice,3SeaterPrice,4SeaterPrice,Ratings,Facilities,Description
+1,Big Bell Boys Hostel,Bhaktapur,Tibukche Tol,Boys,Sujeet Raut,9812038294,12000,11000,10000,9000,3,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym, Fan",peaceful environment
+2,Friends Boys Hostel,Bhaktapur,Dokchee,Boys,Sujeet Raut,9812038294,11000,10000,9000,8000,2,"Wifi, Hot and Cold Water, Parking, Laundary, Fan",located at the heart of the city
+3,Golden Gate Boys Hostel,Bhaktapur,Talako,Boys,Sujeet Raut,9812038294,13000,12000,11000,10000,4,"Wifi, Hot and Cold Water, Laundary, CCTV, Gym, Fan","friendly staff, proper clenliness"
+4,Ajima Girls Hostel,Bhaktapur,Ghakha,Girls,Sujeet Raut,9812038294,12000,11000,10000,9000,5,"Wifi, Hot and Cold Water, Parking, CCTV, Gym",peaceful environment
+5,Manjushree Girls Hostel,Bhaktapur,Dudhpati,Girls,Sujeet Raut,9812038294,12000,11000,10000,9000,1,"Wifi, Hot and Cold Water, Parking",peaceful environment
+6,Swastik Boys Hostel,Bhaktapur,Coche Tol,Boys,Sujeet Raut,9812038294,12000,11000,10000,9000,2,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym",located at the heart of the city
+7,Sweet Home Girls Hostel,Bhaktapur,Lasku Dhoka,Girls,Sujeet Raut,9812038294,12000,11000,10000,9000,3,"Wifi, Hot and Cold Water, Parking, Laundary",located at the heart of the city
+8,Pagoda Boys Hostel,Bhaktapur,Taumadhi Square,Boys,Sujeet Raut,9812038294,12000,11000,10000,9000,4,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym, Fan","friendly staff, proper clenliness"
+9,Subha Girls Hostel,Bhaktapur,Pottery Square,Girls,Sujeet Raut,9812038294,12000,11000,10000,9000,3,"Wifi, Parking, Laundary, CCTV, Gym, Fan",This hostel has peacful environment
+10,Siddhi Laxmi Girls Hostel,Bhaktapur,Kwache Tol,Girls,Sujeet Raut,9812038294,12000,11000,10000,9000,2,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym, Fan",peaceful environment
+11,Krishna Boys Hostel,Bhaktapur,Dudhpati,Boys,Sujeet Raut,9812038294,12000,11000,10000,9000,5,"Wifi, Hot and Cold Water, Parking, Laundary",located at the heart of the city
+12,Planet Bhaktapur Boys Hostel,Bhaktapur,Mandev Marga Jhaukhel Vdc,Boys,Sujeet Raut,9812038294,12000,11000,10000,9000,4,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV",This hostel has peacful environment
+13,Paradise Boys Hostel,Bhaktapur,Suryabinayak,Boys,Sujeet Raut,9812038294,12000,11000,10000,9000,3,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym, Fan",This hostel has peacful environment
+14,Kumari Girls Hostel,Bhaktapur,Durbar Square Taumadhi Square,Girls,Sujeet Raut,9812038294,12500,11500,10500,9500,2,"Wifi, Hot and Cold Water, Laundary,","friendly staff, proper clenliness"
+15,Shiva Boys Hostel,Bhaktapur,Durbar Square Taumadhi Square,Boys,Sujeet Raut,9812038294,12500,11500,10500,9500,1,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",This hostel has peacful environment
+16,Tulaja Girls Hostel,Bhaktapur,Balakhu,Girls,Sujeet Raut,9812038294,12500,11500,10500,9500,2,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV",This hostel has peacful environment
+17,Sunny Boys Hostel  ,Bhaktapur,Taumadhi Square,Boys,Sujeet Raut,9812038294,12500,11500,10500,9500,3,"Wifi, Parking, Laundary",This hostel has peacful environment
+18,Hostel Central Bhaktapur,Bhaktapur,Balakhu Durbar Square,Boys,Sujeet Raut,9812038294,14000,13000,12000,11000,4,"Wifi, Hot and Cold Water, Parking, Laundary","friendly staff, proper clenliness"
+19,Cosy Girls Hostel,Bhaktapur,Pottery Square,Girls,Sujeet Raut,9812038294,11500,10500,9500,8500,5,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",This hostel has peacful environment
+20, Milla Girls Hostel,Bhaktapur,Devli Square,Girls,Sujeet Raut,9812038294,12000,11000,10500,9500,4,"Wifi, Hot and Cold Water, Parking, Laundary",This hostel has peacful environment
+21,Hostel Nextdoor,Lalitpur,Chakupath,Boys,Buddha Singh Subba,9824703922,12000,11000,10000,9000,3,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym, Fan",This hostel has peaceful environment
+22,Your Hostel,Lalitpur,Patan,Boys,Buddha Singh Subba,9881252720,10500,10000,9000,8000,2,"wifi, parking, laundry",located at the heart of the city
+23,Hunk Hostel,Lalitpur,Patan,Boys,Buddha Singh Subba,9881235425,11000,10000,9000,85000,4,"wifi, hot and cold eater, laundry","friendly staff, proper clenliness"
+24,Smart Guys Hostel,Lalitpur,Pulchwok,Boys,Buddha Singh Subba,9881235428,10500,10000,9500,9000,5,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym, Fan",peaceful environment
+25,The Old Town Hostel,Lalitpur,Pulchwok,Boys,Buddha Singh Subba,9742617484,12000,11500,11000,10000,2,"Wifi, Hot and Cold Water, Parking, Laundary, Fan",near supermarket
+26,Fresh Hostel,Lalitpur,Kupondole,Boys,Buddha Singh Subba,9086543258,11000,10500,10000,9500,3,"Wifi, Hot and Cold Water, Laundary, CCTV, Gym, Fan",located at the heart of the city
+27,Purbeli Hostel,Lalitpur,Kupondole,Boys,Buddha Singh Subba,9641258974,10000,9500,9000,8500,1,"Wifi, Hot and Cold Water, Parking, CCTV, Gym",peaceful environment
+28,Durbar Hostel,Lalitpur,Chakupath,Boys,Buddha Singh Subba,9814985566,11500,11000,10500,10000,4,"Wifi, Hot and Cold Water, Parking","friendly staff, proper clenliness"
+29,Taukir Boys Hostel,Lalitpur,Dhobighat,Boys,Buddha Singh Subba,9248698754,12000,11500,11000,10500,3,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym",peaceful environment
+30,Dari Guys Hostel,Lalitpur,Dhobighat,Boys,Buddha Singh Subba,9587932564,11000,10500,10000,9500,4,"Wifi, Hot and Cold Water, Parking, Laundary","friendly staff, proper clenliness"
+31,Sweety Girls Hostel,Lalitpur,Nakkhu,Girls,Buddha Singh Subba,9632145698,12000,11500,11000,10000,5,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym, Fan",peaceful environment
+32,Sanam Girls hostel,Lalitpur,Nakkhu,Girls,Buddha Singh Subba,9123565249,11000,10500,10000,9000,2,"Wifi, Parking, Laundary, CCTV, Gym, Fan",peaceful environment
+33,Patan Kumari hostel,Lalitpur,Lagankhel,Girls,Buddha Singh Subba,9881236985,12000,11000,10000,9500,1,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym, Fan",located at the heart of the city
+34,Women Hostel,Lalitpur,Lagankhel,Girls,Buddha Singh Subba,9616180480,10500,10000,9000,8500,4,"Wifi, Hot and Cold Water, Parking, Laundary",peaceful environment
+35,Seeru Girls hostel,Lalitpur,Lagankhel,Girls,Buddha Singh Subba,9628036542,11500,11000,10000,9500,3,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV",peaceful environment
+36,Sayami Girls Hostel,Lalitpur,Jawalakhel,Girls,Buddha Singh Subba,9546312589,10000,9500,9000,8500,2,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym, Fan",peaceful environment
+37,Sister's Hostel,Lalitpur,Jawalakhel,Girls,Buddha Singh Subba,9725465498,10500,10000,9500,9000,3,"Wifi, Hot and Cold Water, Laundary,",peaceful environment
+38,Homely Girls Hostel,Lalitpur,Satdobato,Girls,Buddha Singh Subba,9845632587,12000,11000,10000,9000,4,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",located at the heart of the city
+39,Lakshmi Girls Hostel,Lalitpur,Satdobato,Girls,Buddha Singh Subba,9215632587,11500,11000,10500,10000,3,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV",peaceful environment
+40,Fairytail Girls Hostel,Lalitpur,Baghdol,Girls,Buddha Singh Subba,9418236521,12000,11500,11000,10500,4,"Wifi, Parking, Laundary",peaceful environment
+41,Newton Boys Hostel,Kathmandu,Buddhanagar,Boys,Mohammed Taukir Sheikh,9824703922,12000,11000,10000,9000,3,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym, Fan",This hostel has peacful environment
+42,Gravity Boys Hostel,Kathmandu,Tinkune,Boys,Mohammed Taukir Sheikh,9824703922,11000,10000,9000,8000,2,"Wifi, Hot and Cold Water, Parking, Laundary, Fan","friendly staff, proper clenliness"
+43,Habib Boys Hostel,Kathmandu,Buddhanagar,Boys,Mohammed Taukir Sheikh,9824703922,13000,12000,11000,10000,4,"Wifi, Hot and Cold Water, Laundary, CCTV, Gym, Fan",This hostel has peacful environment
+44,Kabir Boys Hostel,Kathmandu,New Baneshwor,Boys,Mohammed Taukir Sheikh,9824703922,12000,11000,10000,9000,5,"Wifi, Hot and Cold Water, Parking, CCTV, Gym",This hostel has peacful environment
+45,Mithla Boys Hostel,Kathmandu,New Baneshwor,Boys,Mohammed Taukir Sheikh,9824703922,12000,11000,10000,9000,1,"Wifi, Hot and Cold Water, Parking",located at the heart of the city
+46,Rai Boys Hostel,Kathmandu,Buddhanagar,Boys,Mohammed Taukir Sheikh,9824703922,12000,11000,10000,9000,2,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym",This hostel has peacful environment
+47,Kathmandu Boys Hostel,Kathmandu,Tinkune,Boys,Mohammed Taukir Sheikh,9824703922,12000,11000,10000,9000,3,"Wifi, Hot and Cold Water, Parking, Laundary",This hostel has peacful environment
+48,Salute Boys Hostel,Kathmandu,Old Baneshwor,Boys,Mohammed Taukir Sheikh,9824703922,12000,11000,10000,9000,4,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym, Fan","friendly staff, proper clenliness"
+49,Tinkune Boys Hostel,Kathmandu,Tinkune,Boys,Mohammed Taukir Sheikh,9824703922,12000,11000,10000,9000,3,"Wifi, Parking, Laundary, CCTV, Gym, Fan",This hostel has peacful environment
+50,Nabin Boys Hostel,Kathmandu,Anamnagar,Boys,Mohammed Taukir Sheikh,9824703922,12000,11000,10000,9000,2,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym, Fan",This hostel has peacful environment
+51,Salina Girls Hostel,Kathmandu,Tinkune,Girls,Mohammed Taukir Sheikh,9824703922,12000,11000,10000,9000,5,"Wifi, Hot and Cold Water, Parking, Laundary",located at the heart of the city
+52,Garden Girls Hostel,Kathmandu,Buddhanagar,Girls,Mohammed Taukir Sheikh,9824703922,12000,11000,10000,9000,4,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV",This hostel has peacful environment
+53,Pritoria Girls Hostel,Kathmandu,Bagbazar,Girls,Mohammed Taukir Sheikh,9824703922,12000,11000,10000,9000,3,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym, Fan",This hostel has peacful environment
+54,Aama Girls Hostel,Kathmandu,Ratnapark,Girls,Mohammed Taukir Sheikh,9824703922,12500,11500,10500,9500,2,"Wifi, Hot and Cold Water, Laundary,","friendly staff, proper clenliness"
+55,Bnaeshwor Girls Hostel,Kathmandu,Maharajgunj,Girls,Mohammed Taukir Sheikh,9824703922,12500,11500,10500,9500,1,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",This hostel has peacful environment
+56,Topper Girls Hostel,Kathmandu,Tinkune,Girls,Mohammed Taukir Sheikh,9824703922,12500,11500,10500,9500,2,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV",This hostel has peacful environment
+57,Aarti Girls Hostel,Kathmandu,Koteshwor,Girls,Mohammed Taukir Sheikh,9824703922,12500,11500,10500,9500,3,"Wifi, Parking, Laundary",located at the heart of the city
+58,Anjali Girls Hostel,Kathmandu,New Baneshwor,Girls,Mohammed Taukir Sheikh,9824703922,14000,13000,12000,11000,4,"Wifi, Hot and Cold Water, Parking, Laundary",This hostel has peacful environment
+59,Kabita Girls Hostel,Kathmandu,Anamnagar,Girls,Mohammed Taukir Sheikh,9824703922,11500,10500,9500,8500,5,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",This hostel has peacful environment
+60,Nagin Girls Hostel,Kathmandu,Shankhamul,Girls,Mohammed Taukir Sheikh,9824703922,12000,11000,10500,9500,4,"Wifi, Hot and Cold Water, Parking, Laundary",This hostel has peacful environment
+61, Newton Boys Hostel,Kathmandu,Buddhanagar,Boys,Mohammed Taukir Sheikh,9824703922,12000,11000,10000,9000,3,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym, Fan",This hostel has peaceful environment
+62, Namuna Boys Hostel,Kathmandu ,Tinkune,Boys,Adarsha Dhungel,9881252720,10500,10000,9000,8000,4,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym, Fan",located at the heart of the city
+63,Unity Boys Hostel,Kathmandu ,Koteshwor ,Boys,Kabir Bhattrai,9881235425,11000,10000,9000,85000,3,"Wifi, Hot and Cold Water, Parking, Laundary, Fan","friendly staff, proper clenliness"
+64,Rauniyar Boys Hostel,Kathmandu ,Baneshwor,Boys,Shanti Gyawali,9881235428,10500,10000,9500,9000,2,"Wifi, Hot and Cold Water, Laundary, CCTV, Gym, Fan","friendly staff, proper clenliness"
+65,Aafno Boys Hostel,Kathmandu,Thapa gaun,Boys,Suresh Rajbanshi,9742617484,12000,11500,11000,10000,3,"Wifi, Hot and Cold Water, Parking, CCTV, Gym",peaceful environment
+66,Moonlight Boys Hostel,Kathmandu,Sankhamul,Boys,Aditya bikram Shrestha,9086543258,11000,10500,10000,9500,4,"Wifi, Hot and Cold Water, Parking","friendly staff, proper clenliness"
+67,Youth Boys Hostel,Kathmandu,Srijana nagar,Boys,Rupesh Acharya,9641258974,10000,9500,9000,8500,3,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym","friendly staff, proper clenliness"
+68,Suryakiran Boys Hostel,Kathmandu,Gairi gaun,Boys,Ashish shrestha,9814985566,11500,11000,10500,10000,2,"Wifi, Hot and Cold Water, Parking, Laundary",peaceful environment
+69,Radhakrishna Boys Hostel,Kathmandu,Shantinagar,Boys,Ashwin Limbu ,9248698754,12000,11500,11000,10500,3,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym, Fan",peaceful environment
+70,Easy Boys Hostel,Kathmandu,Chyasal,Girls ,Ramilai pariyar,9587932564,11000,10500,10000,9500,4,"Wifi, Parking, Laundary, CCTV, Gym, Fan",located at the heart of the city
+71, junushree Girls Hostel,Kathmandu,Buddhanagar ,Girls ,Sushila Chauhan,9632145698,12000,11500,11000,10000,3,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym, Fan",located at the heart of the city
+72, Dibya Girls Hostel,Kathmandu,Babarmahal,Girls ,Tilak Prasad Adhikari,9123565249,11000,10500,10000,9000,2,"Wifi, Hot and Cold Water, Parking, Laundary",peaceful environment
+73,Safe heaven Girls Hostel,Kathmandu,Gausala,Girls ,Bashudev pokharel,9881236985,12000,11000,10000,9500,4,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym, Fan","friendly staff, proper clenliness"
+74,Elite Girls Hostel,Kathmandu,Anamnagar,Girls ,Sunita khatun,9616180480,10500,10000,9000,8500,3,"Wifi, Hot and Cold Water, Parking, Laundary, Fan",located at the heart of the city
+75, Manju Girls Hostel,Kathmandu,Unpark,Girls ,Ajay Adhikari,9628036542,11500,11000,10000,9500,3,"Wifi, Hot and Cold Water, Laundary, CCTV, Gym, Fan",peaceful environment
+76,Rigel Girls Hostel,Kathmandu,Koteshwor ,Girls ,Mamata Bista,9546312589,10000,9500,9000,8500,3,"Wifi, Hot and Cold Water, Parking, CCTV, Gym","friendly staff, proper clenliness"
+77, Pricha Girls Hostel,Kathmandu,sukhedhara,Girls ,Suman Tamang syambo,9725465498,10500,10000,9500,9000,2,"Wifi, Hot and Cold Water, Parking",located at the heart of the city
+78,Suhana Girls Hostel,Kathmandu,kapan,Girls ,Prabisha Thapa,9845632587,12000,11000,10000,9000,2,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym",peaceful environment
+79,Beehive Girls Hostel,Kathmandu,Rato pul,Girls ,Sudarshan Mishra,9215632587,11500,11000,10500,10000,3,"Wifi, Hot and Cold Water, Parking, Laundary","friendly staff, proper clenliness"
+80,Samikshya Girls Hostel,Kathmandu,shankhamul,Girls ,Samip Upreti,9418236521,12000,11500,11000,10500,4,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym, Fan",peaceful environment

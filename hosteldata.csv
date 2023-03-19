@@ -1,0 +1,281 @@
+Hid,HostelName,District,Place/City,HostelType,ManagerName,ManagerContact,SingleSeater,DoubleSeater,3Seater,4Seater,Ratings,Facilities,Description,Wifi,HotWater,Parking,Laundry,CCTV,Fan
+1,Big Bell Boys Hostel,Bhaktapur,Tibukche Tol,Boys,Sujeet Raut,9812038294,12000,11000,10000,9000,3,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym, Fan",This hostel has peacful environment,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+2,Friends Boys Hostel,Bhaktapur,Dokchee,Boys,Sujeet Raut,9812038294,11000,10000,9000,8000,2,"Wifi, Hot and Cold Water, Parking, Laundary, Fan",This hostel has peacful environment,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+3,Golden Gate Boys Hostel,Bhaktapur,Talako,Boys,Sujeet Raut,9812038294,13000,12000,11000,10000,4,"Wifi, Hot and Cold Water, Laundary, CCTV, Gym, Fan",This hostel has peacful environment,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+4,Ajima Girls Hostel,Bhaktapur,Ghakha,Girls,Sujeet Raut,9812038294,12000,11000,10000,9000,5,"Wifi, Hot and Cold Water, Parking, CCTV, Gym",This hostel has peacful environment,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+5,Manjushree Girls Hostel,Bhaktapur,Dudhpati,Girls,Sujeet Raut,9812038294,12000,11000,10000,9000,1,"Wifi, Hot and Cold Water, Parking",This hostel has peacful environment,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+6,Swastik Boys Hostel,Bhaktapur,Coche Tol,Boys,Sujeet Raut,9812038294,12000,11000,10000,9000,2,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym",This hostel has peacful environment,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+7,Sweet Home Girls Hostel,Bhaktapur,Lasku Dhoka,Girls,Sujeet Raut,9812038294,12000,11000,10000,9000,3,"Wifi, Hot and Cold Water, Parking, Laundary",This hostel has peacful environment,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+8,Pagoda Boys Hostel,Bhaktapur,Taumadhi Square,Boys,Sujeet Raut,9812038294,12000,11000,10000,9000,4,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym, Fan",This hostel has peacful environment,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE
+9,Subha Girls Hostel,Bhaktapur,Pottery Square,Girls,Sujeet Raut,9812038294,12000,11000,10000,9000,3,"Wifi, Parking, Laundary, CCTV, Gym, Fan",This hostel has peacful environment,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE
+10,Siddhi Laxmi Girls Hostel,Bhaktapur,Kwache Tol,Girls,Sujeet Raut,9812038294,12000,11000,10000,9000,2,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym, Fan",This hostel has peacful environment,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+11,Krishna Boys Hostel,Bhaktapur,Dudhpati,Boys,Sujeet Raut,9812038294,12000,11000,10000,9000,5,"Wifi, Hot and Cold Water, Parking, Laundary",This hostel has peacful environment,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+12,Planet Bhaktapur Boys Hostel,Bhaktapur,Mandev Marga Jhaukhel Vdc,Boys,Sujeet Raut,9812038294,12000,11000,10000,9000,4,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV",This hostel has peacful environment,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+13,Paradise Boys Hostel,Bhaktapur,Suryabinayak,Boys,Sujeet Raut,9812038294,12000,11000,10000,9000,3,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym, Fan",This hostel has peacful environment,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+14,Kumari Girls Hostel,Bhaktapur,Durbar Square Taumadhi Square,Girls,Sujeet Raut,9812038294,12500,11500,10500,9500,2,"Wifi, Hot and Cold Water, Laundary,",This hostel has peacful environment,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+15,Shiva Boys Hostel,Bhaktapur,Durbar Square Taumadhi Square,Boys,Sujeet Raut,9812038294,12500,11500,10500,9500,1,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",This hostel has peacful environment,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+16,Tulaja Girls Hostel,Bhaktapur,Balakhu,Girls,Sujeet Raut,9812038294,12500,11500,10500,9500,2,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",This hostel has peacful environment,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+17,Sunny Boys Hostel  ,Bhaktapur,Taumadhi Square,Boys,Sujeet Raut,9812038294,12500,11500,10500,9500,3,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",This hostel has peacful environment,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+18,Hostel Central Bhaktapur,Bhaktapur,Balakhu Durbar Square,Boys,Sujeet Raut,9812038294,14000,13000,12000,11000,4,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",This hostel has peacful environment,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+19,Cosy Girls Hostel,Bhaktapur,Pottery Square,Girls,Sujeet Raut,9812038294,11500,10500,9500,8500,5,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",This hostel has peacful environment,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+20, Milla Girls Hostel,Bhaktapur,Devli Square,Girls,Sujeet Raut,9812038294,12000,11000,10500,9500,4,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",This hostel has peacful environment,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+21,Hostel Nextdoor,Lalitpur,Chakupath,Boys,Buddha Singh Subba,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+22,Your Hostel,Lalitpur,Patan,Boys,Buddha Singh Subba,,11000,10000,9000,8000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+23,Hunk Hostel,Lalitpur,Patan,Boys,Buddha Singh Subba,,13000,12000,11000,10000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE
+24,Smart Guys Hostel,Lalitpur,Pulchwok,Boys,Buddha Singh Subba,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary",,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE
+25,The Old Town Hostel,Lalitpur,Pulchwok,Boys,Buddha Singh Subba,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV",,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
+26,Fresh Hostel,Lalitpur,Kupondole,Boys,Buddha Singh Subba,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV",,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
+27,Purbeli Hostel,Lalitpur,Kupondole,Boys,Buddha Singh Subba,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV",,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
+28,Durbar Hostel,Lalitpur,Chakupath,Boys,Buddha Singh Subba,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV",,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
+29,Taukir Boys Hostel,Lalitpur,Dhobighat,Boys,Buddha Singh Subba,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV",,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
+30,Dari Guys Hostel,Lalitpur,Dhobighat,Boys,Buddha Singh Subba,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary",,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
+31,Sweety Girls Hostel,Lalitpur,Nakkhu,Girls,Buddha Singh Subba,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
+32,Sanam Girls hostel,Lalitpur,Nakkhu,Girls,Buddha Singh Subba,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
+33,Patan Kumari hostel,Lalitpur,Lagankhel,Girls,Buddha Singh Subba,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
+34,Women Hostel,Lalitpur,Lagankhel,Girls,Buddha Singh Subba,,12500,11500,10500,9500,,"Wifi, Hot and Cold Water, Parking",,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
+35,Seeru Girls hostel,Lalitpur,Lagankhel,Girls,Buddha Singh Subba,,12500,11500,10500,9500,,"Wifi, Hot and Cold Water, Parking",,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
+36,Sayami Girls Hostel,Lalitpur,Jawalakhel,Girls,Buddha Singh Subba,,12500,11500,10500,9500,,"Wifi, Hot and Cold Water, Laundary, CCTV, Gym, Fan",,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
+37,Sister's Hostel,Lalitpur,Jawalakhel,Girls,Buddha Singh Subba,,12500,11500,10500,9500,,"Wifi, Hot and Cold Water, Laundary, CCTV, Gym, Fan",,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
+38,Homely Girls Hostel,Lalitpur,Satdobato,Girls,Buddha Singh Subba,,14000,13000,12000,11000,,"Wifi, Hot and Cold Water, Laundary, CCTV, Gym, Fan",,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
+39,Lakshmi Girls Hostel,Lalitpur,Satdobato,Girls,Buddha Singh Subba,,11500,10500,9500,8500,,"Wifi, Hot and Cold Water, Laundary, CCTV, Gym, Fan",,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
+40,Fairytail Girls Hostel,Lalitpur,Baghdol,Girls,Buddha Singh Subba,,12000,11000,10500,9500,,"Wifi, Hot and Cold Water, Laundary, CCTV, Gym, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+41,Newton Boys Hostel,Kathmandu,Buddhanagar,Boys,Mohammed Taukir Sheikh,9824703922,12000,11000,10000,9000,3,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym, Fan",This hostel has peacful environment,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+42,Gravity Boys Hostel,Kathmandu,Tinkune,Boys,Mohammed Taukir Sheikh,9824703922,11000,10000,9000,8000,2,"Wifi, Hot and Cold Water, Parking, Laundary, Fan",This hostel has peacful environment,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+43,Habib Boys Hostel,Kathmandu,Buddhanagar,Boys,Mohammed Taukir Sheikh,9824703922,13000,12000,11000,10000,4,"Wifi, Hot and Cold Water, Laundary, CCTV, Gym, Fan",This hostel has peacful environment,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+44,Kabir Boys Hostel,Kathmandu,New Baneshwor,Boys,Mohammed Taukir Sheikh,9824703922,12000,11000,10000,9000,5,"Wifi, Hot and Cold Water, Parking, CCTV, Gym",This hostel has peacful environment,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+45,Mithla Boys Hostel,Kathmandu,New Baneshwor,Boys,Mohammed Taukir Sheikh,9824703922,12000,11000,10000,9000,1,"Wifi, Hot and Cold Water, Parking",This hostel has peacful environment,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+46,Rai Boys Hostel,Kathmandu,Buddhanagar,Boys,Mohammed Taukir Sheikh,9824703922,12000,11000,10000,9000,2,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym",This hostel has peacful environment,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+47,Kathmandu Boys Hostel,Kathmandu,Tinkune,Boys,Mohammed Taukir Sheikh,9824703922,12000,11000,10000,9000,3,"Wifi, Hot and Cold Water, Parking, Laundary",This hostel has peacful environment,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+48,Salute Boys Hostel,Kathmandu,Old Baneshwor,Boys,Mohammed Taukir Sheikh,9824703922,12000,11000,10000,9000,4,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym, Fan",This hostel has peacful environment,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+49,Tinkune Boys Hostel,Kathmandu,Tinkune,Boys,Mohammed Taukir Sheikh,9824703922,12000,11000,10000,9000,3,"Wifi, Parking, Laundary, CCTV, Gym, Fan",This hostel has peacful environment,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+50,Nabin Boys Hostel,Kathmandu,Anamnagar,Boys,Mohammed Taukir Sheikh,9824703922,12000,11000,10000,9000,2,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym, Fan",This hostel has peacful environment,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+51,Salina Girls Hostel,Kathmandu,Tinkune,Girls,Mohammed Taukir Sheikh,9824703922,12000,11000,10000,9000,5,"Wifi, Hot and Cold Water, Parking, Laundary",This hostel has peacful environment,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+52,Garden Girls Hostel,Kathmandu,Buddhanagar,Girls,Mohammed Taukir Sheikh,9824703922,12000,11000,10000,9000,4,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV",This hostel has peacful environment,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+53,Pritoria Girls Hostel,Kathmandu,Bagbazar,Girls,Mohammed Taukir Sheikh,9824703922,12000,11000,10000,9000,3,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym, Fan",This hostel has peacful environment,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+54,Aama Girls Hostel,Kathmandu,Ratnapark,Girls,Mohammed Taukir Sheikh,9824703922,12500,11500,10500,9500,2,"Wifi, Hot and Cold Water, Laundary,",This hostel has peacful environment,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+55,Bnaeshwor Girls Hostel,Kathmandu,Maharajgunj,Girls,Mohammed Taukir Sheikh,9824703922,12500,11500,10500,9500,1,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",This hostel has peacful environment,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+56,Topper Girls Hostel,Kathmandu,Tinkune,Girls,Mohammed Taukir Sheikh,9824703922,12500,11500,10500,9500,2,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV",This hostel has peacful environment,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+57,Aarti Girls Hostel,Kathmandu,Koteshwor,Girls,Mohammed Taukir Sheikh,9824703922,12500,11500,10500,9500,3,"Wifi, Parking, Laundary",This hostel has peacful environment,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+58,Anjali Girls Hostel,Kathmandu,New Baneshwor,Girls,Mohammed Taukir Sheikh,9824703922,14000,13000,12000,11000,4,"Wifi, Hot and Cold Water, Parking, Laundary",This hostel has peacful environment,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+59,Kabita Girls Hostel,Kathmandu,Anamnagar,Girls,Mohammed Taukir Sheikh,9824703922,11500,10500,9500,8500,5,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",This hostel has peacful environment,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+60,Nagin Girls Hostel,Kathmandu,Shankhamul,Girls,Mohammed Taukir Sheikh,9824703922,12000,11000,10500,9500,4,"Wifi, Hot and Cold Water, Parking, Laundary",This hostel has peacful environment,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+61, Newton Boys Hostel,Kathmandu,Buddhanagar,Boys,Mohammed Taukir Sheikh,9824703922,12000,11000,10000,9000,3,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym, Fan",This hostel has peaceful environment,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+62, Namuna Boys Hostel,Kathmandu ,Tinkune,Boys,Adarsha Dhungel,9881252720,10500,10000,9000,8000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym, Fan",located at the heart of the city,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+63,Unity Boys Hostel,Kathmandu ,Koteshwor ,Boys,Kabir Bhattrai,9881235425,11000,10000,9000,85000,,"Wifi, Hot and Cold Water, Parking, Laundary, Fan","friendly staff, proper clenliness",TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+64,Rauniyar Boys Hostel,Kathmandu ,Baneshwor,Boys,Shanti Gyawali,9881235428,10500,10000,9500,9000,,"Wifi, Hot and Cold Water, Laundary, CCTV, Gym, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+65,Aafno Boys Hostel,Kathmandu,Thapa gaun,Boys,Suresh Rajbanshi,9742617484,12000,11500,11000,10000,,"Wifi, Hot and Cold Water, Parking, CCTV, Gym",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+66,Moonlight Boys Hostel,Kathmandu,Sankhamul,Boys,Aditya bikram Shrestha,9086543258,11000,10500,10000,9500,,"Wifi, Hot and Cold Water, Parking",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+67,Youth Boys Hostel,Kathmandu,Srijana nagar,Boys,Rupesh Acharya,9641258974,10000,9500,9000,8500,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+68,Suryakiran Boys Hostel,Kathmandu,Gairi gaun,Boys,Ashish shrestha,9814985566,11500,11000,10500,10000,,"Wifi, Hot and Cold Water, Parking, Laundary",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+69,Radhakrishna Boys Hostel,Kathmandu,Shantinagar,Boys,Ashwin Limbu ,9248698754,12000,11500,11000,10500,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+70,Easy Boys Hostel,Kathmandu,Chyasal,Girls ,Ramilai pariyar,9587932564,11000,10500,10000,9500,,"Wifi, Parking, Laundary, CCTV, Gym, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+71, junushree Girls Hostel,Kathmandu,Buddhanagar ,Girls ,Sushila Chauhan,9632145698,12000,11500,11000,10000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+72, Dibya Girls Hostel,Kathmandu,Babarmahal,Girls ,Tilak Prasad Adhikari,9123565249,11000,10500,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+73,Safe heaven Girls Hostel,Kathmandu,Gausala,Girls ,Bashudev pokharel,9881236985,12000,11000,10000,9500,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+74,Elite Girls Hostel,Kathmandu,Anamnagar,Girls ,Sunita khatun,9616180480,10500,10000,9000,8500,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+75, Manju Girls Hostel,Kathmandu,Unpark,Girls ,Ajay Adhikari,9628036542,11500,11000,10000,9500,,"Wifi, Hot and Cold Water, Laundary,",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+76,Rigel Girls Hostel,Kathmandu,Koteshwor ,Girls ,Mamata Bista,9546312589,10000,9500,9000,8500,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+77, Pricha Girls Hostel,Kathmandu,sukhedhara,Girls ,Suman Tamang syambo,9725465498,10500,10000,9500,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+78,Suhana Girls Hostel,Kathmandu,kapan,Girls ,Prabisha Thapa,9845632587,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+79,Beehive Girls Hostel,Kathmandu,Rato pul,Girls ,Sudarshan Mishra,9215632587,11500,11000,10500,10000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+80,Samikshya Girls Hostel,Kathmandu,shankhamul,Girls ,Samip Upreti,9418236521,12000,11500,11000,10500,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+81,Ajay Boys Hostel,Kathmandu,Buddhanagar,Boys,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+82,Abhishek Boys Hostel,Kathmandu,Tinkune,Boys,,,11000,10000,9000,8000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+83,Aditya Boys Hostel,Kathmandu,Buddhanagar,Boys,,,13000,12000,11000,10000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+84,Ajay Boys Hostel,Kathmandu,New Baneshwor,Boys,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+85,Akash Boys Hostel,Kathmandu,New Baneshwor,Boys,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+86,Aryan Boys Hostel,Kathmandu,Buddhanagar,Boys,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+87,Bikash Boys Hostel,Kathmandu,Tinkune,Boys,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+88,Bishal Boys Hostel,Kathmandu,Old Baneshwor,Boys,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+89,Chirag Boys Hostel,Kathmandu,Tinkune,Boys,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+90,Deepak Boys Hostel,Kathmandu,Anamnagar,Boys,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+91,Dhiren Boys Hostel,Kathmandu,Tinkune,Boys,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+92,Dipen Boys Hostel,Kathmandu,Buddhanagar,Boys,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+93,Gaurav Boys Hostel,Kathmandu,Bagbazar,Boys,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+94,Girish Boys Hostel,Kathmandu,Ratnapark,Boys,,,12500,11500,10500,9500,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+95,Hari Boys Hostel,Kathmandu,Maharajgunj,Boys,,,12500,11500,10500,9500,,"Wifi, Hot and Cold Water, Parking",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+96,Hitesh Boys Hostel,Kathmandu,Tinkune,Boys,,,12500,11500,10500,9500,,"Wifi, Hot and Cold Water, Parking",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+97,Jeevan Boys Hostel,Kathmandu,Koteshwor,Boys,,,12500,11500,10500,9500,,"Wifi, Hot and Cold Water, Laundary, CCTV, Gym, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+98,Kalyan Boys Hostel,Kathmandu,New Baneshwor,Boys,,,14000,13000,12000,11000,,"Wifi, Hot and Cold Water, Laundary, CCTV, Gym, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+99,Kishor Boys Hostel,Kathmandu,Anamnagar,Boys,,,11500,10500,9500,8500,,"Wifi, Hot and Cold Water, Laundary, CCTV, Gym, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+100,Kumar Boys Hostel,Kathmandu,Shankhamul,Boys,,,12000,11000,10500,9500,,"Wifi, Hot and Cold Water, Laundary, CCTV, Gym, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+101,Manish Boys Hostel,Kathmandu,Buddhanagar,Boys,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Laundary, CCTV, Gym, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+102,Manoj Boys Hostel,Kathmandu,Tinkune,Boys,,,11000,10000,9000,8000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+103,Mukesh Boys Hostel,Kathmandu,Koteshwor ,Boys,,,13000,12000,11000,10000,,"Wifi, Hot and Cold Water, Parking, Laundary, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+104,Nabin Boys Hostel,Kathmandu,Baneshwor,Boys,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Laundary, CCTV, Gym, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+105,Narendra Boys Hostel,Kathmandu,Thapa gaun,Boys,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, CCTV, Gym",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+106,Naveen Boys Hostel,Kathmandu,Sankhamul,Boys,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+107,Neeraj Boys Hostel,Kathmandu,Srijana nagar,Boys,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+108,Nitin Boys Hostel,Kathmandu,Gairi gaun,Boys,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+109,Pankaj Boys Hostel,Kathmandu,Shantinagar,Boys,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+110,Pradeep Boys Hostel,Kathmandu,Chyasal,Boys,,,12000,11000,10000,9000,,"Wifi, Parking, Laundary, CCTV, Gym, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+111,Prakash Boys Hostel,Kathmandu,Buddhanagar ,Boys,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+112,Rajesh Boys Hostel,Kathmandu,Babarmahal,Boys,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+113,Rakesh Boys Hostel,Kathmandu,Gausala,Boys,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+114,Ramesh Boys Hostel,Kathmandu,Anamnagar,Boys,,,12500,11500,10500,9500,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+115,Rohan Boys Hostel,Kathmandu,Unpark,Boys,,,12500,11500,10500,9500,,"Wifi, Hot and Cold Water, Laundary,",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+116,Sabin Boys Hostel,Kathmandu,Koteshwor ,Boys,,,12500,11500,10500,9500,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+117,Sachin Boys Hostel,Kathmandu,sukhedhara,Boys,,,12500,11500,10500,9500,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+118,Sandip Boys Hostel,Kathmandu,kapan,Boys,,,14000,13000,12000,11000,,"Wifi, Parking, Laundary",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+119,Santosh Boys Hostel,Kathmandu,Rato pul,Boys,,,11500,10500,9500,8500,,"Wifi, Hot and Cold Water, Parking, Laundary",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+120,Saroj Boys Hostel,Kathmandu,shankhamul,Boys,,,12000,11000,10500,9500,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+121,Shailesh Boys Hostel,Kathmandu,Buddhanagar,Boys,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+122,Shakti Boys Hostel,Kathmandu,Tinkune,Boys,,,11000,10000,9000,8000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+123,Shankar Boys Hostel,Kathmandu,Buddhanagar,Boys,,,13000,12000,11000,10000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+124,Shree Boys Hostel,Kathmandu,New Baneshwor,Boys,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+125,Shrestha Boys Hostel,Kathmandu,New Baneshwor,Boys,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Laundary, CCTV, Gym, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+126,Shubham Boys Hostel,Kathmandu,Buddhanagar,Boys,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, CCTV, Gym",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+127,Suresh Boys Hostel,Kathmandu,Tinkune,Boys,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+128,Sushil Boys Hostel,Kathmandu,Old Baneshwor,Boys,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+129,Umesh Boys Hostel,Kathmandu,Tinkune,Boys,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+130,Upendra Boys Hostel,Kathmandu,Anamnagar,Boys,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+131,Uttam Boys Hostel,Bhaktapur,Tibukche Tol,Boys,,,12000,11000,10000,9000,,"Wifi, Parking, Laundary, CCTV, Gym, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+132,Bishnu Boys Hostel,Bhaktapur,Dokchee,Boys,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+133,Dinesh Boys Hostel,Bhaktapur,Talako,Boys,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary",,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE
+134,Ganesh Boys Hostel,Bhaktapur,Ghakha,Boys,,,12500,11500,10500,9500,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV",,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE
+135,Gyanendra Boys Hostel,Bhaktapur,Dudhpati,Boys,,,12500,11500,10500,9500,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym, Fan",,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE
+136,Keshav Boys Hostel,Bhaktapur,Coche Tol,Boys,,,12500,11500,10500,9500,,"Wifi, Hot and Cold Water, Laundary,",,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE
+137,Kiran Boys Hostel,Bhaktapur,Lasku Dhoka,Boys,,,12500,11500,10500,9500,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE
+138,Madhav Boys Hostel,Bhaktapur,Taumadhi Square,Boys,,,14000,13000,12000,11000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE
+139,Mukunda Boys Hostel,Bhaktapur,Pottery Square,Boys,,,11500,10500,9500,8500,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE
+140,Rajan Boys Hostel,Bhaktapur,Kwache Tol,Boys,,,12000,11000,10500,9500,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE
+141,Rishi Boys Hostel,Bhaktapur,Dudhpati,Boys,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+142,Sanjay Boys Hostel,Bhaktapur,Mandev Marga Jhaukhel Vdc,Boys,,,10500,10000,9000,8000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+143,Subash Boys Hostel,Bhaktapur,Suryabinayak,Boys,,,11000,10000,9000,85000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+144,Ujjwal Boys Hostel,Bhaktapur,Durbar Square Taumadhi Square,Boys,,,10500,10000,9500,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+145,Vipin Boys Hostel,Bhaktapur,Durbar Square Taumadhi Square,Boys,,,12000,11500,11000,10000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+146,Ashish Boys Hostel,Bhaktapur,Balakhu,Boys,,,11000,10500,10000,9500,,"Wifi, Hot and Cold Water, Parking, Laundary",,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+147,Avi Boys Hostel,Bhaktapur,Taumadhi Square,Boys,,,10000,9500,9000,8500,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV",,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+148,Bijay Boys Hostel,Bhaktapur,Balakhu Durbar Square,Boys,,,11500,11000,10500,10000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV",,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+149,Bikram Boys Hostel,Bhaktapur,Pottery Square,Boys,,,12000,11500,11000,10500,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV",,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+150,Binod Boys Hostel,Bhaktapur,Devli Square,Boys,,,11000,10500,10000,9500,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV",,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE
+151,Chintu Boys Hostel,Lalitpur,Chakupath,Boys,,,12000,11500,11000,10000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV",,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE
+152,Deepesh Boys Hostel,Lalitpur,Patan,Boys,,,11000,10500,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary",,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE
+153,Dinesh Boys Hostel,Lalitpur,Patan,Boys,,,12000,11000,10000,9500,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE
+154,Gokul Boys Hostel,Lalitpur,Pulchwok,Boys,,,10500,10000,9000,8500,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE
+155,Hari Boys Hostel,Lalitpur,Pulchwok,Boys,,,11500,11000,10000,9500,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE
+156,Jivan Boys Hostel,Lalitpur,Kupondole,Boys,,,10000,9500,9000,8500,,"Wifi, Hot and Cold Water, Parking",,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE
+157,Kishor Boys Hostel,Lalitpur,Kupondole,Boys,,,10500,10000,9500,9000,,"Wifi, Hot and Cold Water, Parking",,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+158,Manish Boys Hostel,Lalitpur,Chakupath,Boys,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Laundary, CCTV, Gym, Fan",,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+159,Manoj Boys Hostel,Lalitpur,Dhobighat,Boys,,,11500,11000,10500,10000,,"Wifi, Hot and Cold Water, Laundary, CCTV, Gym, Fan",,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE
+160,Mukesh Boys Hostel,Lalitpur,Dhobighat,Boys,,,12000,11500,11000,10500,,"Wifi, Hot and Cold Water, Laundary, CCTV, Gym, Fan",,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE
+161,Nabin Boys Hostel,Lalitpur,Nakkhu,Boys,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Laundary, CCTV, Gym, Fan",,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE
+162,Narendra Boys Hostel,Lalitpur,Nakkhu,Boys,,,11000,10000,9000,8000,,"Wifi, Hot and Cold Water, Laundary, CCTV, Gym, Fan",,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
+163,Naveen Boys Hostel,Lalitpur,Lagankhel,Boys,,,13000,12000,11000,10000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym, Fan",,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
+164,Neeraj Boys Hostel,Lalitpur,Lagankhel,Boys,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, Fan",,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
+165,Nitin Boys Hostel,Lalitpur,Lagankhel,Boys,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Laundary, CCTV, Gym, Fan",,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
+166,Pankaj Boys Hostel,Lalitpur,Jawalakhel,Boys,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, CCTV, Gym",,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
+167,Pradeep Boys Hostel,Lalitpur,Jawalakhel,Boys,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking",,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
+168,Prakash Boys Hostel,Lalitpur,Satdobato,Boys,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym",,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
+169,Rajesh Boys Hostel,Lalitpur,Satdobato,Boys,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary",,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
+170,Rakesh Boys Hostel,Lalitpur,Baghdol,Boys,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym, Fan",,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
+171,Ramesh Boys Hostel,Lalitpur,Chakupath,Boys,,,12000,11000,10000,9000,,"Wifi, Parking, Laundary, CCTV, Gym, Fan",,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
+172,Rohan Boys Hostel,Lalitpur,Patan,Boys,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym, Fan",,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
+173,Sabin Boys Hostel,Lalitpur,Patan,Boys,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary",,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
+174,Sachin Boys Hostel,Lalitpur,Pulchwok,Boys,,,12500,11500,10500,9500,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+175,Sandip Boys Hostel,Lalitpur,Pulchwok,Boys,,,12500,11500,10500,9500,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+176,Santosh Boys Hostel,Lalitpur,Kupondole,Boys,,,12500,11500,10500,9500,,"Wifi, Hot and Cold Water, Laundary,",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+177,Saroj Boys Hostel,Lalitpur,Kupondole,Boys,,,12500,11500,10500,9500,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+178,Shailesh Boys Hostel,Lalitpur,Chakupath,Boys,,,14000,13000,12000,11000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+179,Shakti Boys Hostel,Lalitpur,Dhobighat,Boys,,,11500,10500,9500,8500,,"Wifi, Parking, Laundary",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+180,Shankar Boys Hostel,Lalitpur,Dhobighat,Boys,,,12000,11000,10500,9500,,"Wifi, Hot and Cold Water, Parking, Laundary",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+181,Aarati Girls Hostel,Kathmandu,Buddhanagar,Girls ,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+182,Abha Girls Hostel,Kathmandu,Tinkune,Girls ,,,11000,10000,9000,8000,,"Wifi, Hot and Cold Water, Parking, Laundary",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+183,Apekshya Girls Hostel,Kathmandu,Buddhanagar,Girls ,,,13000,12000,11000,10000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+184,Arpana Girls Hostel,Kathmandu,New Baneshwor,Girls ,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+185,Asmita Girls Hostel,Kathmandu,New Baneshwor,Girls ,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+186,Bimala Girls Hostel,Kathmandu,Buddhanagar,Girls ,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Laundary, CCTV, Gym, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+187,Bishnu Girls Hostel,Kathmandu,Tinkune,Girls ,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, CCTV, Gym",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+188,Chanda Girls Hostel,Kathmandu,Old Baneshwor,Girls ,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+189,Durga Girls Hostel,Kathmandu,Tinkune,Girls ,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+190,Ganga Girls Hostel,Kathmandu,Anamnagar,Girls ,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+191,Girisha Girls Hostel,Kathmandu,Tinkune,Girls ,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+192,Indira Girls Hostel,Kathmandu,Buddhanagar,Girls ,,,12000,11000,10000,9000,,"Wifi, Parking, Laundary, CCTV, Gym, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+193,Jyoti Girls Hostel,Kathmandu,Bagbazar,Girls ,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+194,Kalyani Girls Hostel,Kathmandu,Ratnapark,Girls ,,,12500,11500,10500,9500,,"Wifi, Hot and Cold Water, Parking, Laundary",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+195,Kritika Girls Hostel,Kathmandu,Maharajgunj,Girls ,,,12500,11500,10500,9500,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+196,Kusum Girls Hostel,Kathmandu,Tinkune,Girls ,,,12500,11500,10500,9500,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+197,Laxmi Girls Hostel,Kathmandu,Koteshwor,Girls ,,,12500,11500,10500,9500,,"Wifi, Hot and Cold Water, Laundary,",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+198,Madhuri Girls Hostel,Kathmandu,New Baneshwor,Girls ,,,14000,13000,12000,11000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+199,Megha Girls Hostel,Kathmandu,Anamnagar,Girls ,,,11500,10500,9500,8500,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+200,Narmada Girls Hostel,Kathmandu,Shankhamul,Girls ,,,12000,11000,10500,9500,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+201,Nisha Girls Hostel,Kathmandu,Buddhanagar,Girls ,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+202,Pallavi Girls Hostel,Kathmandu,Tinkune,Girls ,,,11000,10000,9000,8000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+203,Pramila Girls Hostel,Kathmandu,Koteshwor ,Girls ,,,13000,12000,11000,10000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+204,Preeti Girls Hostel,Kathmandu,Baneshwor,Girls ,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+205,Priya Girls Hostel,Kathmandu,Thapa gaun,Girls ,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+206,Radha Girls Hostel,Kathmandu,Sankhamul,Girls ,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+207,Rekha Girls Hostel,Kathmandu,Srijana nagar,Girls ,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+208,Renuka Girls Hostel,Kathmandu,Gairi gaun,Girls ,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+209,Sabina Girls Hostel,Kathmandu,Shantinagar,Girls ,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+210,Sadhana Girls Hostel,Kathmandu,Chyasal,Girls ,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+211,Sahana Girls Hostel,Kathmandu,Buddhanagar ,Girls ,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+212,Sajana Girls Hostel,Kathmandu,Babarmahal,Girls ,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+213,Sajani Girls Hostel,Kathmandu,Gausala,Girls ,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+214,Sajina Girls Hostel,Kathmandu,Anamnagar,Girls ,,,12500,11500,10500,9500,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+215,Samjhana Girls Hostel,Kathmandu,Unpark,Girls ,,,12500,11500,10500,9500,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+216,Sandhya Girls Hostel,Kathmandu,Koteshwor ,Girls ,,,12500,11500,10500,9500,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+217,Sanjana Girls Hostel,Kathmandu,sukhedhara,Girls ,,,12500,11500,10500,9500,,"Wifi, Hot and Cold Water, Parking",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+218,Sanjivani Girls Hostel,Kathmandu,kapan,Girls ,,,14000,13000,12000,11000,,"Wifi, Hot and Cold Water, Parking",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+219,Santoshi Girls Hostel,Kathmandu,Rato pul,Girls ,,,11500,10500,9500,8500,,"Wifi, Hot and Cold Water, Laundary, CCTV, Gym, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+220,Saraswati Girls Hostel,Kathmandu,shankhamul,Girls ,,,12000,11000,10500,9500,,"Wifi, Hot and Cold Water, Laundary, CCTV, Gym, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+221,Shanti Girls Hostel,Kathmandu,Buddhanagar,Girls ,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Laundary, CCTV, Gym, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+222,Sharmila Girls Hostel,Kathmandu,Tinkune,Girls ,,,10500,10000,9000,8000,,"Wifi, Hot and Cold Water, Laundary, CCTV, Gym, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+223,Shobha Girls Hostel,Kathmandu,Buddhanagar,Girls ,,,11000,10000,9000,85000,,"Wifi, Hot and Cold Water, Laundary, CCTV, Gym, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+224,Shreeja Girls Hostel,Kathmandu,New Baneshwor,Girls ,,,10500,10000,9500,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+225,Shreya Girls Hostel,Kathmandu,New Baneshwor,Girls ,,,12000,11500,11000,10000,,"Wifi, Hot and Cold Water, Parking, Laundary, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+226,Shristi Girls Hostel,Kathmandu,Buddhanagar,Girls ,,,11000,10500,10000,9500,,"Wifi, Hot and Cold Water, Laundary, CCTV, Gym, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+227,Shristy Girls Hostel,Kathmandu,Tinkune,Girls ,,,10000,9500,9000,8500,,"Wifi, Hot and Cold Water, Parking, CCTV, Gym",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+228,Sita Girls Hostel,Kathmandu,Old Baneshwor,Girls ,,,11500,11000,10500,10000,,"Wifi, Hot and Cold Water, Parking",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+229,Soma Girls Hostel,Kathmandu,Tinkune,Girls ,,,12000,11500,11000,10500,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+230,Sristi Girls Hostel,Kathmandu,Anamnagar,Girls ,,,11000,10500,10000,9500,,"Wifi, Hot and Cold Water, Parking, Laundary",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+231,Subhadra Girls Hostel,Bhaktapur,Tibukche Tol,Girls ,,,12000,11500,11000,10000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+232,Sushmita Girls Hostel,Bhaktapur,Dokchee,Girls ,,,11000,10500,10000,9000,,"Wifi, Parking, Laundary, CCTV, Gym, Fan",,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE
+233,Suzan Girls Hostel,Bhaktapur,Talako,Girls ,,,12000,11000,10000,9500,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym, Fan",,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE
+234,Sweta Girls Hostel,Bhaktapur,Ghakha,Girls ,,,10500,10000,9000,8500,,"Wifi, Hot and Cold Water, Parking, Laundary",,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE
+235,Tara Girls Hostel,Bhaktapur,Dudhpati,Girls ,,,11500,11000,10000,9500,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV",,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE
+236,Tripti Girls Hostel,Bhaktapur,Coche Tol,Girls ,,,10000,9500,9000,8500,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym, Fan",,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE
+237,Uma Girls Hostel,Bhaktapur,Lasku Dhoka,Girls ,,,10500,10000,9500,9000,,"Wifi, Hot and Cold Water, Laundary,",,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE
+238,Urmila Girls Hostel,Bhaktapur,Taumadhi Square,Girls ,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE
+239,Usha Girls Hostel,Bhaktapur,Pottery Square,Girls ,,,11500,11000,10500,10000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV",,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE
+240,Vaishali Girls Hostel,Bhaktapur,Kwache Tol,Girls ,,,12000,11500,11000,10500,,"Wifi, Parking, Laundary",,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE
+241,Vandana Girls Hostel,Bhaktapur,Dudhpati,Girls ,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary",,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE
+242,Varsha Girls Hostel,Bhaktapur,Mandev Marga Jhaukhel Vdc,Girls ,,,11000,10000,9000,8000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE
+243,Vidya Girls Hostel,Bhaktapur,Suryabinayak,Girls ,,,13000,12000,11000,10000,,"Wifi, Hot and Cold Water, Parking, Laundary",,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE
+244,Yashoda Girls Hostel,Bhaktapur,Durbar Square Taumadhi Square,Girls ,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym, Fan",,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE
+245,Anjali Girls Hostel,Bhaktapur,Durbar Square Taumadhi Square,Girls ,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym, Fan",,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE
+246,Archana Girls Hostel,Bhaktapur,Balakhu,Girls ,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, Fan",,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE
+247,Aruna Girls Hostel,Bhaktapur,Taumadhi Square,Girls ,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Laundary, CCTV, Gym, Fan",,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE
+248,Asha Girls Hostel,Bhaktapur,Balakhu Durbar Square,Girls ,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, CCTV, Gym",,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE
+249,Bina Girls Hostel,Bhaktapur,Pottery Square,Girls ,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+250,Chandra Girls Hostel,Bhaktapur,Devli Square,Girls ,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+251,Disha Girls Hostel,Lalitpur,Chakupath,Girls ,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+252,Gita Girls Hostel,Lalitpur,Patan,Girls ,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+253,Jyoti Girls Hostel,Lalitpur,Patan,Girls ,,,12000,11000,10000,9000,,"Wifi, Parking, Laundary, CCTV, Gym, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+254,Kavita Girls Hostel,Lalitpur,Pulchwok,Girls ,,,12500,11500,10500,9500,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+255,Khushi Girls Hostel,Lalitpur,Pulchwok,Girls ,,,12500,11500,10500,9500,,"Wifi, Hot and Cold Water, Parking, Laundary",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+256,Leela Girls Hostel,Lalitpur,Kupondole,Girls ,,,12500,11500,10500,9500,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+257,Lily Girls Hostel,Lalitpur,Kupondole,Girls ,,,12500,11500,10500,9500,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Gym, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+258,Manisha Girls Hostel,Lalitpur,Chakupath,Girls ,,,14000,13000,12000,11000,,"Wifi, Hot and Cold Water, Laundary,",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+259,Manjula Girls Hostel,Lalitpur,Dhobighat,Girls ,,,11500,10500,9500,8500,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+260,Maya Girls Hostel,Lalitpur,Dhobighat,Girls ,,,12000,11000,10500,9500,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+261,Meena Girls Hostel,Lalitpur,Nakkhu,Girls ,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+262,Nisha Girls Hostel,Lalitpur,Nakkhu,Girls ,,,11000,10000,9000,8000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+263,Niti Girls Hostel,Lalitpur,Lagankhel,Girls ,,,13000,12000,11000,10000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+264,Poonam Girls Hostel,Lalitpur,Lagankhel,Girls ,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+265,Pooja Girls Hostel,Lalitpur,Lagankhel,Girls ,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+266,Pushpa Girls Hostel,Lalitpur,Jawalakhel,Girls ,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+267,Ratna Girls Hostel,Lalitpur,Jawalakhel,Girls ,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+268,Renu Girls Hostel,Lalitpur,Satdobato,Girls ,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+269,Rita Girls Hostel,Lalitpur,Satdobato,Girls ,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+270,Roshni Girls Hostel,Lalitpur,Baghdol,Girls ,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+271,Rupa Girls Hostel,Lalitpur,Chakupath,Girls ,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+272,Sabitri Girls Hostel,Lalitpur,Patan,Girls ,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+273,Sadhika Girls Hostel,Lalitpur,Patan,Girls ,,,12000,11000,10000,9000,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+274,Sahira Girls Hostel,Lalitpur,Pulchwok,Girls ,,,12500,11500,10500,9500,,"Wifi, Hot and Cold Water, Parking, Laundary",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+275,Samjhana Girls Hostel,Lalitpur,Pulchwok,Girls ,,,12500,11500,10500,9500,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+276,Sandhya Girls Hostel,Lalitpur,Kupondole,Girls ,,,12500,11500,10500,9500,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+277,Sanjana Girls Hostel,Lalitpur,Kupondole,Girls ,,,12500,11500,10500,9500,,"Wifi, Hot and Cold Water, Parking, Laundary, CCTV, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+278,Sanjivani Girls Hostel,Lalitpur,Chakupath,Girls ,,,14000,13000,12000,11000,,"Wifi, Hot and Cold Water, Parking",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+279,Santoshi Girls Hostel,Lalitpur,Dhobighat,Girls ,,,11500,10500,9500,8500,,"Wifi, Hot and Cold Water, Parking",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+280,Saraswati Girls Hostel,Lalitpur,Dhobighat,Girls ,,,12000,11000,10500,9500,,"Wifi, Hot and Cold Water, Laundary, CCTV, Gym, Fan",,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
